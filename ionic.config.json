@@ -1,0 +1,7 @@
+{
+  "name": "social-media-download",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
